@@ -29,12 +29,12 @@
     {
       "name": "Website",
       "icon": "globe-pointer",
-      "url": "https://mintlify.com/community"
+      "url": "https://www.stadiumskills.com"
     },
     {
       "name": "GroupMe",
       "icon": "user-group",
-      "url": "https://mintlify.com/blog"
+      "url": "https://groupme.com/join_group/100352617/Oy13VDKp"
     }
   ],
   "navigation": [
@@ -49,12 +49,14 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "pages/calls",
+        "pages/profile",
+        "pages/links",
+        "pages/college-details",
+        "pages/college-offers",
+        "pages/high-school",
+        "pages/youth-teams",
+        "pages/awards"
       ]
     }
   ],
