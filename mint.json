@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Athlete Documentation | Stadium Skills",
   "logo": {
-    "dark": "/logo/Untitled design (25).svg",
-    "light": "/logo/Untitled design (25).svg"
+    "dark": "/logo/s_logo.svg",
+    "light": "/logo/s_logo.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
